@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+form{
+	padding: 30px 20px ;
+	border-radius: 8px;
+	background: #D3E3E8;
+	width: 20%;
+}
+
+#submitting{
+	background:#729DAB;
+}
+
+#submitting:hover{
+	background:#527682;
+}
